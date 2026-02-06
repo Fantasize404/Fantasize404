@@ -1,4 +1,9 @@
-## Hi there 👋
+# README
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fantasize404&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasize404&layout=compact&theme=vue-dark)
+
+
 
 <!--
 **Fantasize404/Fantasize404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
