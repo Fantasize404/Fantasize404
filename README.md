@@ -1,6 +1,6 @@
 # README
 
-![GitHub 統計](https://github-readme-stats.vercel.app/api?username=Fantasize404&show_icons=true&theme=radical)
+歡迎來到 My GitHub
 
 
 <!--
