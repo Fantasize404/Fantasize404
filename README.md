@@ -1,6 +1,6 @@
 # README
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fantasize404)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fantasize404)
 
 
 
